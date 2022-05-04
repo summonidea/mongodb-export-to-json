@@ -4,7 +4,7 @@
   "description": "Using node.js and mongoose package to read a mongo atlas collection and export it to a json file.",
   "main": "index.js",
   "scripts": {
-    "test": "node index"
+    "dev": "node index"
   },
   "repository": {
     "type": "git",
