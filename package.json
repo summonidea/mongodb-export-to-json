@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/summonidea/mongodb-export-to-json/issues"
   },
-  "homepage": "https://github.com/summonidea/mongodb-export-to-json#readme"
+  "homepage": "https://github.com/summonidea/mongodb-export-to-json#readme",
+  "dependencies": {
+    "mongoose": "^6.3.2"
+  }
 }
