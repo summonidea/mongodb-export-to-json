@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-export-to-json",
+  "version": "1.0.0",
+  "description": "Using node.js and mongoose package to read a mongo atlas collection and export it to a json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summonidea/mongodb-export-to-json.git"
+  },
+  "keywords": [
+    "node.js",
+    "mongodb",
+    "json"
+  ],
+  "author": "summonidea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summonidea/mongodb-export-to-json/issues"
+  },
+  "homepage": "https://github.com/summonidea/mongodb-export-to-json#readme"
+}
